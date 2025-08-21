@@ -1,1 +1,1 @@
-just a readme page
+Its a fruits website.
